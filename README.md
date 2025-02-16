@@ -1,4 +1,4 @@
-#🔑 SecurePassGen - Random Password Generator
+🔑 SecurePassGen - Random Password Generator
 SecurePassGen is a simple and secure password generator built with Python and Tkinter. It allows users to generate random passwords with customizable length and copy them to the clipboard.
 
 🚀 Features
