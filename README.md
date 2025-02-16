@@ -13,7 +13,7 @@ SecurePassGen is a simple and secure password generator built with Python and Tk
 🛠 Installation & Usage
 
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/SecurePassGen.git
+git clone (https://github.com/echoLabs-dev/SecurePassGen.git)
 cd SecurePassGen
 
 2️⃣ Install dependencies (if needed)
